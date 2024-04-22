@@ -3,6 +3,7 @@ public class Main {
 
         System.out.println("Hello world!");
         System.out.println("Write is Browser");
+        System.out.println("Write is Browser");
         System.out.println("Мой коммит первый");
     }
 }
